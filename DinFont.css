@@ -3,14 +3,14 @@
   font-family: 'Din Font';
   font-style: normal;
   font-weight: 400;
-  src: local('Tajawal'), local('Tajawal-Light'), url(https://raw.githack.com/MohammadQt/font-itheric/master/DIN-Next-LT-W23-Light.woff) format('woff2');
+  src: local('Din'), local('Din-Light'), url(https://raw.githack.com/MohammadQt/font-itheric/master/DIN-Next-LT-W23-Light.woff) format('woff');
   unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
 }
 @font-face {
   font-family: 'Din Font';
   font-style: normal;
   font-weight: 500;
-  src: local('Tajawal'), local('Tajawal-Regular'), url(https://raw.githack.com/MohammadQt/font-itheric/master/DIN-Next-LT-W23-Regular.woff) format('woff2');
+  src: local('Din'), local('Din-Regular'), url(https://raw.githack.com/MohammadQt/font-itheric/master/DIN-Next-LT-W23-Regular.woff) format('woff');
   unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
 }
 @font-face {
@@ -19,6 +19,6 @@
   font-weight: 600;
   font-weight: 700;
   font-weight: Bold;
-  src: local('Tajawal Medium'), local('Tajawal-Bold'), url(https://raw.githack.com/MohammadQt/font-itheric/master/DIN-Next-LT-W23-Bold.woff) format('woff2');
+  src: local('Din Medium'), local('Din-Bold'), url(https://raw.githack.com/MohammadQt/font-itheric/master/DIN-Next-LT-W23-Bold.woff) format('woff');
   unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
 }
